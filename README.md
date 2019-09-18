@@ -6,3 +6,4 @@ om de content te kunnen wijzigen en
 webverkeer en reserveringen gegevens te
 kunnen inzien.
 
+GamePlayParty for the gamers
